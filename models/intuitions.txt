@@ -1,0 +1,11 @@
+Here are my basic intuitions about the parameters to get in reward functions. I will mostly keep this document as a testimony about the journey.
+
+Description                      | Complexity 5-super easy 1-lot of work| Impact 1-useless 5-essential
+
+Following the central line | 5 | 2
+Not crossing the side lines | 5 | 5
+Maximizing average speed | 3 | 5
+Reducing speed before turns | 3 | 3
+Limiting the angle of turns (lateral g) | 3 | 4
+Turning as seldom as possible | 2 | 4
+Minimizing overall distance | 2 | 3
